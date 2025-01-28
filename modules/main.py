@@ -1,4 +1,3 @@
-import maths.funcs as f
+from maths.funcs import sum as f
 
-
-print(f.sum(1, 2))
+print(f(1, 2))
