@@ -746,7 +746,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 75,
+   "execution_count": 76,
    "metadata": {},
    "outputs": [
     {
@@ -755,13 +755,13 @@
        "'array.ipynb.json'"
       ]
      },
-     "execution_count": 75,
+     "execution_count": 76,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "shutil.copy(\"array.ipynb\", \"array.ipynb.json\")"
+    "shutil.copy(\"array.ipynb\", \"array.ipynb.json\") # Now you can see the artitecture of the ipynb file"
    ]
   },
   {
