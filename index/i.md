@@ -75,3 +75,35 @@ aws gcp digitalocean azure cf firebase vercel heroku
 
 - https://github.com/SH20RAJ/bitsyll
 - https://github.com/SH20RAJ/youtube-remote-uploader
+
+
+# learning 
+- gen ai :- https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/
+neural networks, nlp
+
+mojo
+
+
+
+# new
+
+moodagent , creoyt
+codeseek
+telegram bot
+aisanta Public
+
+octapress --------
+nextnent
+snapattend --------
+sanskrit
+multiversal
+auraai
+SoundWave
+SocialScribe
+
+SafeStore Public
+
+
+
+reverse eng, bitsyll, sopplayer, phpbot
+
